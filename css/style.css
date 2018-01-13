@@ -1,0 +1,54 @@
+body {
+	background-color: #21211F;
+	color: #B9B9B9;
+}
+
+.card {
+	background-color: #21211F;
+}
+
+.card-body {
+	height: 0;
+	padding: 0 0 75% 0;
+}
+
+/* Axis */
+.tick line {
+	stroke: #646464
+}
+
+.tick text {
+	fill: #B9B9B9;
+	font-size: 10px;
+}
+
+/* Legend */
+.legend text {
+	fill: #B9B9B9;
+	font-size: 10px;
+}
+
+/* Chart body */
+.chart-body text {
+	fill: #FFF;
+}
+/* Line chart */
+.chart-body .line {
+	stroke-width: 2;
+}
+
+.chart-body circle {
+	stroke-width: 2;
+	fill:  #21211F;
+}
+
+/* Pie chart, Donut chart, Progress chart*/
+.chart-body .arc {
+	stroke: #21211F;
+	stroke-width: 2px;
+}
+
+/* Progress chart */
+.chart-body .progress-label {
+	fill: #FFF;
+}
