@@ -1,1 +1,1 @@
-# d3-chart-gallery
+# [D3.js Chart Gallery](https://zhenmao.github.io/chart-gallery/)
